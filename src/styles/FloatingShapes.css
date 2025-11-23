@@ -1,0 +1,74 @@
+.shape-container {
+    position: fixed;
+    inset: 0;
+    z-index: 11;
+    pointer-events: none;
+    overflow: hidden;
+    background: transparent;
+  }
+  
+  /* Base style for shapes */
+  .shape {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    opacity: 0.6;
+    background: linear-gradient(135deg, #00f5ff, #ff0099);
+    filter: blur(0.3px);
+    transition: transform 0.5s ease-out;
+  }
+  
+  /* Circle shape */
+  .shape.circle {
+    border-radius: 50%;
+  }
+  
+  /* Triangle shape */
+  .shape.triangle {
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-bottom: 35px solid #ff00cc;
+    background: none;
+  }
+  
+  /* Diamond shape */
+  .shape.diamond {
+    transform: rotate(45deg);
+    background: linear-gradient(135deg, #00ffe0, #ff00c3);
+  }
+  
+  /* Square */
+  .shape.square {
+    background: linear-gradient(135deg, #ffc107, #ff5722);
+    border-radius: 6px;
+  }
+  
+  /* Animation for floating up/down */
+  @keyframes float {
+    0% {
+      transform: translateY(0) rotate(0deg);
+    }
+    50% {
+      transform: translateY(-30px) rotate(15deg);
+    }
+    100% {
+      transform: translateY(0) rotate(0deg);
+    }
+  }
+  
+  .shape-container.animate .shape {
+    animation: float 3s ease-in-out infinite;
+  }
+  
+  /* Randomized placement for variety */
+  .shape:nth-child(1) { top: 10%; left: 15%; }
+  .shape:nth-child(2) { top: 25%; left: 60%; }
+  .shape:nth-child(3) { top: 40%; left: 30%; }
+  .shape:nth-child(4) { top: 60%; left: 70%; }
+  .shape:nth-child(5) { top: 75%; left: 20%; }
+  .shape:nth-child(6) { top: 15%; left: 80%; }
+  .shape:nth-child(7) { top: 50%; left: 50%; }
+  .shape:nth-child(8) { top: 80%; left: 40%; }
+  
