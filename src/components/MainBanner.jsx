@@ -336,7 +336,7 @@ export default function ThreeDBanner({
   }
 
   return (
-    <div className="banner-section w-full max-w-6xl mx-auto px-0 pt-30">
+    <div className="banner-section w-full mx-auto section-padding xl:pd-0">
       <div className="banner-content-wrap grid md:grid-cols-2 gap-8 items-center">
         <div>
           <h2 className="text-3xl md:text-3xl font-bold mb-4">{title}</h2>
