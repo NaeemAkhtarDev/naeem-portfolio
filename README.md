@@ -42,7 +42,6 @@ I deliver across every platform  **React.js, Next.js, WordPress, Webflow, HTML5,
 | [Animated Website](https://naeemakhtardev.github.io/-Interactions-Motion-GSAP-Bicycle-Experience/) | GSAP, JavaScript, HTML, CSS | SEO-optimized product store with 95+ Lighthouse score |
 | [Portfolio](https://naeem-portfolio-rho.vercel.app/) | React, Tailwind, Three.js, GSAP | Interactive analytics dashboard for B2B startup |
 
-*(Add links or screenshots for stronger SEO & credibility.)*
 
 ---
 
@@ -55,7 +54,7 @@ If you’re looking for a **frontend developer & ui/ux developer** who blends cr
 💼 **Upwork:** [https://www.upwork.com/freelancers/~013667d8cec7e8cbf8](https://www.upwork.com/freelancers/~013667d8cec7e8cbf8)  
 🎯 **Github:** [https://github.com/NaeemAkhtarDev](https://github.com/NaeemAkhtarDev)  
 💼 **Linkedin:** [https://www.linkedin.com/in/m-naeemakhtar/](https://www.linkedin.com/in/m-naeemakhtar/)  
-📸 **Behance / Dribbble:** [https://dribbble.com/yourname](https://dribbble.com/yourname)  
+📸 **Behance / Dribbble:** [#](https://dribbble.com/yourname)  
 
 ---
 
