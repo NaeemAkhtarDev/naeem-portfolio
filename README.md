@@ -49,8 +49,8 @@ I deliver across every platform  **React.js, Next.js, WordPress, Webflow, HTML5,
 
 If you’re looking for a **frontend developer & ui/ux developer** who blends creativity, performance, and clean code. I’d love to collaborate!
 
-📩 **Email:** [talkwithnaeem@gmail.com](mailto:talkwithnaeem@gmail.com)  
-🌍 **Portfolio:** [https://naeem-portfolio-rho.vercel.app/](https://naeem-portfolio-rho.vercel.app/)  
+📩 **Email:** [Contact Me](mailto:talkwithnaeem@gmail.com)  
+🌍 **Portfolio:** [Website](https://naeem-portfolio-rho.vercel.app/)  
 💼 **Upwork:** [https://www.upwork.com/freelancers/~013667d8cec7e8cbf8](https://www.upwork.com/freelancers/~013667d8cec7e8cbf8)  
 🎯 **Github:** [https://github.com/NaeemAkhtarDev](https://github.com/NaeemAkhtarDev)  
 💼 **Linkedin:** [https://www.linkedin.com/in/m-naeemakhtar/](https://www.linkedin.com/in/m-naeemakhtar/)  
@@ -68,7 +68,9 @@ If you’re looking for a **frontend developer & ui/ux developer** who blends cr
 ## 🧩 Tech Stack & Tools
 
 **Frontend:** React.js, Next.js, TypeScript, JavaScript, Redux, Framer Motion, GSAP, Three.js, Spline
+
 **UI Developer:** HTML, CSS, SASS, LESS, Responsive, TailwindCSS, Bootstrap, Foundation, CSS Animation, Email Template
+
 **Design:** Figma, Adobe XD, Framer, Canva, Adobe Photoshop, Adobe Illustrator  
 **CMS & Builders:** WordPress, Webflow, Shopify, Woocommerece, Plugin design & development, Laravel UI, Beaver Builder, Elementor  
 **SEO & Optimization:** Google Analytics, Search Console, Core Web Vitals  
