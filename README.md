@@ -50,10 +50,10 @@ I deliver across every platform  **React.js, Next.js, WordPress, Webflow, HTML5,
 If you’re looking for a **frontend developer & ui/ux developer** who blends creativity, performance, and clean code. I’d love to collaborate!
 
 📩 **Email:** [Contact Me](mailto:talkwithnaeem@gmail.com)  
-🌍 **Portfolio:** [Website](https://naeem-portfolio-rho.vercel.app/)  
-💼 **Upwork:** [https://www.upwork.com/freelancers/~013667d8cec7e8cbf8](https://www.upwork.com/freelancers/~013667d8cec7e8cbf8)  
+🌍 **Portfolio:** [My Website](https://naeem-portfolio-rho.vercel.app/)  
+💼 **Upwork:** [Naeem Akhtar | Frontend Developer | React, WordPress & Webflow Expert](https://www.upwork.com/freelancers/~013667d8cec7e8cbf8)  
 🎯 **Github:** [https://github.com/NaeemAkhtarDev](https://github.com/NaeemAkhtarDev)  
-💼 **Linkedin:** [https://www.linkedin.com/in/m-naeemakhtar/](https://www.linkedin.com/in/m-naeemakhtar/)  
+💼 **Linkedin:** [Naeem Akhtar | UI/UX Developer, Frontend Developer | Frontend Engineer | Web Developer ](https://www.linkedin.com/in/m-naeemakhtar/)  
 📸 **Behance / Dribbble:** [#](https://dribbble.com/yourname)  
 
 ---
